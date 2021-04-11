@@ -26,7 +26,7 @@ Run the Python file and enjoy.
 Select the option 1 or 2 according to your choice.
 
 1. Create 'Copy' folder if not created by its own.
-2. Run 'Test.py' by opening terminal.
-3. Use command 'python Test.py' to start the application.
+2. Run 'FaceMatch.py' by opening terminal.
+3. Use command 'python FaceMatch.py' to start the application.
 
 ```
