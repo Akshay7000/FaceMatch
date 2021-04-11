@@ -1,4 +1,4 @@
-# Image-Sorting
+# FACE MATCH an image-sorting-application
 
 ## Requirments
 
@@ -25,6 +25,8 @@ Clone the repository
 Run the Python file and enjoy.
 Select the option 1 or 2 according to your choice.
 
-1. 'Create face data' will capture a image and save it to the FACES folder.
-2. 'Short Images' will ask you to select the folder of images you want to sort.
+1. Create 'Copy' folder if not created by its own.
+2. Run 'Test.py' by opening terminal.
+3. Use command 'python Test.py' to start the application.
+
 ```
